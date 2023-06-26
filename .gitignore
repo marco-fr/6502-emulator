@@ -1,0 +1,6 @@
+bin/*
+.clang-format
+data.bin
+debug/*
+obj/*
+.vscode/*
